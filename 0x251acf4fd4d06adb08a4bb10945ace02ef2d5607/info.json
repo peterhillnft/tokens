@@ -1,0 +1,11 @@
+{
+ "name": "Golf Token",
+ "website": "https://Golftakenclub.com",
+ "description": "Golf Enthusiasts Club",
+ "explorer": "https://bscscan.com/token/0x251acf4fd4d06adb08a4bb10945ace02ef2d5607",
+ "type": "BEP20",
+ "symbol": "GOLF",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x251acf4fd4d06adb08a4bb10945ace02ef2d5607"
+}
